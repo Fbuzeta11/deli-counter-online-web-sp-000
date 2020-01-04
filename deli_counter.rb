@@ -1,7 +1,7 @@
 # Write your code here.
 katz_deli = ["Moshi", "Fayge", "Rivki"]
 
-def line_simple(array) 
+def line(array) 
   if array.length >= 1
     nuarray = []
     counter = 1 
